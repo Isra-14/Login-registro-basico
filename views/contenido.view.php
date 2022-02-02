@@ -13,12 +13,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Raleway:wght@300;400&family=Roboto:wght@100&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
     <title>Contenido</title>
 </head>
 <body>
     <div class="contenedor">
         <h1 class="titulo">Contenido del sitio</h1>
         <a href="cerrar.php">Cerrar sesion</a>
+
+        <hr class="border">
 
         <div class="contenido">
             <article>
